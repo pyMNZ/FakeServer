@@ -1,23 +1,16 @@
-[
 {"lecons":[
     {
         "titre": "Les différentes animations",
         "cours": "L'animation de propriétés modifie les valeurs d'un objet. Il peut par exemple changer de couleur, de taille, ou encore de police. <br>L'animation image par image change d'image avec un intervalle de temps choisi. C'est ce changement d'images qui forme l'animation. "
-        
 
   },
 
     {
         "titre": "Les différentes listes de choix",
         "cours": "Spinner : un choix est affiché. Pour voir les autres il faut cliquer sur la flèche<br>ListView : tous les choix sont affichés ligne par ligne. Cette liste est utilisée pour des éléments utilisant un gestionnaire de contenu."
-       
   },
     {
         "titre": "Lancer l'application sur un téléphone virtuel",
         "cours": "1) Télécharger un émulateur : <br>AVD Manager > Create Virtual Device > [Choisir un téléphone] > Next > [Télécharger l'API] > Next (>  Show Advanced Settings) > Finish <br> 2)Lancer l'émulateur : <br>cliquer sur la flèche verte"
-        
   }
-     ]
-}
-    ]
-
+    ]}
